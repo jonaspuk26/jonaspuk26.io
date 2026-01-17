@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/antraspsl/</loc>
+    <loc>http://localhost:1313/jonaspuk26.io/posts/antraspsl/</loc>
     <lastmod>2026-01-18T00:00:27+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/jonaspuk26.io/</loc>
     <lastmod>2026-01-18T00:00:27+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/jonaspuk26.io/posts/</loc>
     <lastmod>2026-01-18T00:00:27+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/jonopsl/</loc>
+    <loc>http://localhost:1313/jonaspuk26.io/posts/jonopsl/</loc>
     <lastmod>2026-01-17T23:09:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/jonaspuk26.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/jonaspuk26.io/tags/</loc>
   </url>
 </urlset>
