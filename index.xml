@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jono puslapis</title>
+    <link>https://jonaspuk26.github.io/</link>
+    <description>Recent content on Jono puslapis</description>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Jan 2026 23:09:25 +0200</lastBuildDate>
+    <atom:link href="https://jonaspuk26.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VienasPsl</title>
+      <link>https://jonaspuk26.github.io/posts/jonopsl/</link>
+      <pubDate>Sat, 17 Jan 2026 23:09:25 +0200</pubDate>
+      <guid>https://jonaspuk26.github.io/posts/jonopsl/</guid>
+      <description>&lt;p&gt;KAZKAS KAZKAS PARASYTA&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
